@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.31624.102
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkyActions.Twitch", "SkyActions.Twitch\SkyActions.Twitch.csproj", "{F3D8135B-44A7-4D01-ACF3-043863441BA3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkyActions.Console", "SkyActions.Console\SkyActions.Console.csproj", "{A2F7E6C9-2748-4F3A-B160-C44FAAEECB25}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkyActions", "SkyActions\SkyActions.csproj", "{A2F7E6C9-2748-4F3A-B160-C44FAAEECB25}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkyActions.Skyrim", "SkyActions.Skyrim\SkyActions.Skyrim.csproj", "{E716488B-3AC9-4D49-AE7B-D137CB44F536}"
 EndProject

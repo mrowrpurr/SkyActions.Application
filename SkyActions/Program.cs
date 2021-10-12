@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace SkyActions.Console {
+namespace SkyActions.App {
     class Program {
         static void Main(string[] args) {
             Console.WriteLine("Hello World!");
